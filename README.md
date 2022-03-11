@@ -1,5 +1,6 @@
 # Practical-Learning-Management
 
 Plan 
-- [ ] Create HTML template and JS script
+- [x] Create HTML template and JS script
 - [ ] Use JS to import data from Google Spreadsheet
+- [ ] Function to import gSheets file - test.gsheet
